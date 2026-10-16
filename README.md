@@ -1,6 +1,6 @@
 # LoopAttnRes
 
-Code for **Attention Over Depth Makes Weight Tying Cheap** (Nate Kimball, 2026).
+Code for **Attention Over Depth Makes Weight Tying Cheap** (Nathaniel Kimball, 2026).
 
 A looped (weight-tied) transformer applies one block of `L` layers `T` times. LoopAttnRes
 replaces the residual connection between iterations with Attention Residuals
@@ -112,7 +112,7 @@ tests/                      pytest tests
 ```bibtex
 @article{kimball2026loopattnres,
   title  = {Attention Over Depth Makes Weight Tying Cheap},
-  author = {Kimball, Nate},
+  author = {Kimball, Nathaniel},
   year   = {2026}
 }
 ```
