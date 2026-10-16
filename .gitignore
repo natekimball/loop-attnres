@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pt
+out*/
+wandb/
+third_party/
+data/finewebedu/
+data/igsm/*.bin
+results/*.json
+figures/*.png
+.DS_Store

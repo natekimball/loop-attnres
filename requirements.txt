@@ -1,0 +1,8 @@
+# install torch first, matching your CUDA version
+numpy
+tiktoken
+datasets
+scipy
+matplotlib
+wandb
+pytest
